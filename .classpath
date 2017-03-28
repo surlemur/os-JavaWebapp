@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src/main/webapp"/>
+	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="lib" path="/home/user/.m2/repository/javax/javaee-api/7.0/javaee-api-7.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
